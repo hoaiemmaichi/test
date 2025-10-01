@@ -1,0 +1,7 @@
+## Mô tả tính năng mới
+
+1. Tính năng cho phép người dùng đăng nhập bằng email.
+2. Hệ thống lưu lại lịch sử đăng nhập.
+3. Thêm chức năng đổi mật khẩu an toàn.
+4. Cho phép đăng xuất từ tất cả thiết bị cùng lúc.
+5. Gửi email xác nhận khi có đăng nhập lạ.
