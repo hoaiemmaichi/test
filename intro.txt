@@ -1,4 +1,6 @@
 Hello, this is <Họ Tên>
+Xin chào, tôi là <Họ Tên>
+Conflict resolved on 01/10/2025
 Tôi tên là Nguyễn Văn A, sinh viên ngành CNTT.
 Hiện đang học tại Đại học XYZ.
 Tôi yêu thích lập trình và công nghệ.
