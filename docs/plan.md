@@ -15,6 +15,11 @@ Nội dung:
 8. Chia sẻ kinh nghiệm Git với bạn bè.
 9. Thực hành thêm với project cá nhân.
 10. Tổng kết kiến thức đã học trong tuần.
+<<<<<<< Updated upstream
 11. dddddddd
 12. sssssssssssss
 13. ssssssssssss
+=======
+11. bbbbbbbbbbbbbbbbbbb
+12. ccccccccccccc
+>>>>>>> Stashed changes
