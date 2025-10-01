@@ -1,6 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Git hỗ trợ làm việc nhóm hiệu quả.
 - Git kết nối trực tiếp với GitHub để chia sẻ code.
-- Git hỗ trợ nhiều workflow khác nhau.
-- Git giúp theo dõi lịch sử thay đổi chi tiết.
-
