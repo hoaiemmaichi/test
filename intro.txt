@@ -1,0 +1,23 @@
+Giới thiệu cá nhân
+Tôi tên là Nguyễn Văn A, sinh viên ngành CNTT.
+Hiện đang học tại Đại học XYZ.
+Tôi yêu thích lập trình và công nghệ.
+Mục tiêu của tôi là trở thành lập trình viên giỏi.
+Tôi mong muốn được làm việc trong các dự án thực tế.
+
+Sở thích:
+- Đọc sách
+- Chơi bóng đá
+- Nghe nhạc
+
+Kỹ năng:
+- Lập trình C++
+- Sử dụng Git
+- Làm việc nhóm
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git hàng ngày.
+- Hoàn thành bài tập thực hành Git trong môn học.
+- Học thêm về Git branching và merging.
+- Thực hành làm project nhóm sử dụng GitHub.
+- Viết tài liệu ghi lại kinh nghiệm sử dụng Git.
